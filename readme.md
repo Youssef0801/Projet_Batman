@@ -1,5 +1,5 @@
 # 🚀 Projet Batman
-Le sujet parle de Batman
+Le sujet parle de Batman et ce projet est réalisé par un étudiant en 1er année en dev
 ![cover](./asset/cover-batman.jpg)
 
 # L'histoire de Batman
